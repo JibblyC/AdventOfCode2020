@@ -1,5 +1,3 @@
-import array
-
 input_array = []
 
 rows = list(range(128))
